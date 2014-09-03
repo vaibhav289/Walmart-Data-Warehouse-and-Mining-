@@ -1,0 +1,16 @@
+eraser,11,stationary,1;
+penpencil,20,stationary,2;
+scissors,25,stationary,3;
+slambooks,55,stationary,4;
+glue,20,stationary;
+shirts,500,clothes,21;
+saree,2000,clothes,22;
+kurti,750,clothes,23;
+bread,24,food,41;
+cheese,10,food,42;
+rackets,400,sports,61;
+balls,50,sports,62;
+slippers,250,footwear,81;
+
+
+

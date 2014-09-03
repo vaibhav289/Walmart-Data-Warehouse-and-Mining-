@@ -1,0 +1,3 @@
+id,street,sales,locname
+3,jvpd,100000,ban
+4,tp,50000,delhi

@@ -1,0 +1,6 @@
+id,sellocid,msalary,mname,manid,implocid,mdob,mgender
+1,1,50000,george,11,21,12031967,m
+2,2,45000,heena,12,11,12051967,f
+3,1,45769,nancy,13,51,15061977,f
+4,3,23456,deepa,14,61,10091976,f
+5,4,21000,vikas,15,71,19041987,m

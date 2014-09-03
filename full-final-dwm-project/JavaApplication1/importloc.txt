@@ -1,0 +1,4 @@
+id,locid,locname
+10,1,mumbai
+11,2,chennai
+12,3,delhi

@@ -1,0 +1,4 @@
+id,catname,wing
+2,stationary,a
+7,food,b
+4,footwear,e
